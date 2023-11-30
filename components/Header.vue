@@ -22,13 +22,12 @@
           class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
         >
         <li><NuxtLink to="/" class="text-base">Home</NuxtLink></li>
-          <li><NuxtLink to="/gallery" class="text-base">Gallery</NuxtLink></li>
           <li><NuxtLink to="/students" class="text-base">Student</NuxtLink></li>
         </ul>
       </div>
     </div>
     <div class="navbar-center">
-      <a class="btn btn-ghost text-xl text-center">Faarlv</a>
+      <a class="btn btn-ghost text-xl text-center">Student Manegement System</a>
     </div>
     <div class="navbar-end">
      
